@@ -24,6 +24,10 @@ Cleaned noisy categories (e.g. "['Comedies', 'International']")
 
 📈 Power BI Dashboard
 Created in netflix_1099.pbix and includes:
+## 📊 Power BI Dashboard
+
+You can explore the interactive Power BI dashboard for this project here:  
+[🔗 View Netflix Dashboard on Power BI](https://app.powerbi.com/groups/me/reports/d0c52f13-fb63-4085-94da-391b3d24d774/079683a40f138967b957?experience=power-bi)
 
 📊 Top 10 Genres by Count
 
